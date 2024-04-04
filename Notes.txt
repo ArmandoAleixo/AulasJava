@@ -1,0 +1,8 @@
+Aula 1 = Arraylists / scanner / while / if else if.
+
+Aula 2 = estudo.
+
+Aula 3 = static e final
+
+Aula 4 = Git e Github (comandos : git init / git add .)
+
